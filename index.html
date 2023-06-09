@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Yelp Data Visualization</title>
+    <style>
+        /* CSS styles for the header and sidebar */
+        header {
+            background-color: #f0f28b;
+            color: #160739;
+            padding: 70px;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 10;
+            font-size: 64px;
+        }
+
+        .sidebar {
+            width: 150px;
+            background-color: #cd4c35;
+            padding: 10px;
+        }
+
+        .sidebar-section {
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            margin: 0;
+            padding: 10px 0;
+            font-size: 30px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>YELP DATA VISUALIZATION</h1>
+    </header>
+
+    <div class="sidebar">
+        <div class="sidebar-section">
+            <h2 onclick="showDashboard()">Dashboard</h2>
+            <!-- Add content for the dashboard menu -->
+        </div>
+        <div class="sidebar-section">
+            <h2 onclick="showRating()">Rating</h2>
+            <!-- Add content for the rating menu -->
+        </div>
+        <div class="sidebar-section">
+            <h2 onclick="showMap()">Map</h2>
+            <!-- Add content for the map menu -->
+        </div>
+    </div>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <div id="chart-container"></div>
+    <!-- Add the rest of your content here -->
+
+    <script>
+        function showDashboard() {
+            // Implement the logic to show the dashboard
+            console.log('Show Dashboard');
+        }
+
+        function showRating() {
+            // Implement the logic to show the rating
+            console.log('Show Rating');
+        }
+
+        function showMap() {
+            // Implement the logic to show the map
+            console.log('Show Map');
+        }
+    </script>
+</body>
+</html>
+
+
+
+
