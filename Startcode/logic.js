@@ -1,5 +1,5 @@
 // Global Utility Variables
-var data = {};
+var data = {}; // Placeholder for your actual data
 
 // Global HTML selectors
 var inputSelector = d3.select("#selDataset");
@@ -11,20 +11,23 @@ function titleCase(str) {
   }).join(' ');
 }
 
-// Populate the Demographic Info panel
-function populateDemoInfo(idNum) {
+// Populate the restaurants Info panel
+function populateRestaurantsInfo(idNum) {
   // Log a change
   console.log("Pop: " + idNum);
 
-  // Just grab the one ID we want
-  var metadataFilter = data.metadata.filter(item => item["id"] == idNum);
+  // Just grab the one category we want
+  var metadataFilter = data.filter(item => item["categories"] === idNum);
   console.log(`metaFilter length: ${metadataFilter.length}`);
 
   // Clear out the data first
   panelDemoInfo.html("");
 
   // Fill it back in
-  Object.entries(metadataFilter[0]).forEach(([key, value]) => { var titleKey = titleCase(key); panelDemoInfo.append("h6").text(`${titleKey}: ${value}`) });
+  Object.entries(metadataFilter[0]).forEach(([key, value]) => {
+    var titleKey = titleCase(key);
+    panelDemoInfo.append("h6").text(`${titleKey}: ${value}`);
+  });
 }
 
 // Object Compare Function
@@ -35,20 +38,44 @@ function compareValues(key, order = 'asc') {
       return 0;
     }
     const varA = (typeof a[key] === 'string')
-      ? a[key].toUpperCase() : a[key];
+      ? a[key].toUpperCase()
+      : a[key];
     const varB = (typeof b[key] === 'string')
-      ? b[key].toUpperCase() : b[key];
+      ? b[key].toUpperCase()
+      : b[key];
     let comparison = 0;
     if (varA > varB) {
       comparison = 1;
     } else if (varA < varB) {
       comparison = -1;
     }
-    return (
-      (order === 'desc') ? (comparison * -1) : comparison
-    );
+    return (order === 'desc') ? (comparison * -1) : comparison;
   };
 }
+
+// Event handler for the select element
+function optionChanged(value) {
+  populateRestaurantsInfo(value);
+}
+
+// Load the JSON data from the file
+d3.json("sample.json").then(function(jsonData) {
+  data = jsonData; // Assign the loaded data to the data variable
+
+  // Populate the select element with options
+  var categories = [...new Set(data.map(item => item.categories.split(", ")).flat())];
+  categories.forEach(category => {
+    inputSelector.append("option").text(category).attr("value", category);
+  });
+}).catch(function(error) {
+  console.log("Error loading JSON data: " + error);
+});
+
+
+
+
+
+
 
 
 
@@ -162,110 +189,6 @@ d3.json("Data/sample.json").then(function(jsonData) {
 
 
 // Draw the bar plot
-// Load the sample JSON data
-d3.json("Data/sample.json").then(function(jsonData) {
-    // Extract the required information for the bar plot
-    const cities = jsonData.map(item => item.city);
-    const restaurantCounts = {};
-  
-    // Count the number of restaurants in each city
-    cities.forEach(city => {
-      if (restaurantCounts[city]) {
-        restaurantCounts[city]++;
-      } else {
-        restaurantCounts[city] = 1;
-      }
-    });
-  
-    // Prepare data for the bar plot
-    const data = [
-      {
-        x: Object.keys(restaurantCounts),
-        y: Object.values(restaurantCounts),
-        type: 'bar'
-      }
-    ];
-  
-    // Set layout options for the bar plot
-    const layout = {
-      title: 'Restaurant Counts by City',
-      xaxis: {
-        title: 'City'
-      },
-      yaxis: {
-        title: 'Number of Restaurants',
-        tick0: 0,
-        dtick: 25
-      }
-    };
-  
-    // Display the bar plot
-    Plotly.newPlot('chart-container', data, layout);
-  }).catch(function(error) {
-    console.log(error);
-  });
+/
 
 
-
-  // Draw the bubble chart
-  // Load the sample JSON data
-d3.json("Data/sample.json").then(function(jsonData) {
-    // Extract the required information for the bubble chart
-    const categories = jsonData.map(item => item.categories);
-    const restaurantCounts = {};
-  
-    // Count the number of restaurants in each category
-    categories.forEach(category => {
-      const categoryList = category.split(", ");
-      categoryList.forEach(categoryItem => {
-        if (restaurantCounts[categoryItem]) {
-          restaurantCounts[categoryItem]++;
-        } else {
-          restaurantCounts[categoryItem] = 1;
-        }
-      });
-    });
-  
-    // Prepare data for the bubble chart
-    const data = Object.entries(restaurantCounts).map(([name, value]) => ({
-      id: name,
-      value: value
-    }));
-  
-    // Set options for the bubble chart
-    const options = {
-      label: d => `${d.id}\n${d.value.toLocaleString("en")}`,
-      value: d => d.value,
-      group: null,
-      title: null,
-      link: null,
-      width: 640,
-      height: 400,
-      padding: 3,
-      margin: 1,
-      marginTop: 1,
-      marginRight: 1,
-      marginBottom: 1,
-      marginLeft: 1,
-      groups: null,
-      colors: d3.schemeTableau10,
-      fill: "#ccc",
-      fillOpacity: 0.7,
-      stroke: null,
-      strokeWidth: null,
-      strokeOpacity: null
-    };
-  
-    // Call the BubbleChart function
-    const chartElement = BubbleChart(data, options);
-  
-    // Append the chart element to the DOM
-    document.getElementById("chart-container").appendChild(chartElement);
-  }).catch(function(error) {
-    console.log(error);
-  });
-  
-
-
- 
-  

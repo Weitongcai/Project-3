@@ -1,144 +1,76 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Yelp Data Visualization</title>
-    <style>
-        /* CSS styles for the header and sidebar */
-        header {
-            background-color: #f0f28b;
-            color: #160739;
-            padding: 70px;
-            text-align: center;
-        }
-
-        h1 {
-            margin: 10;
-            font-size: 64px;
-        }
-
-        .sidebar {
-            width: 150px;
-            background-color: #cd4c35;
-            padding: 10px;
-        }
-
-        .sidebar-section {
-            margin-bottom: 20px;
-        }
-
-        h2 {
-            margin: 0;
-            padding: 10px 0;
-            font-size: 30px;
-            font-weight: bold;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>YELP DATA VISUALIZATION</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <style>
+    /* CSS styles for the header and sidebar */
+    .jumbotron {
+      background-color: yellow;
+      color: #160739;
+      padding: 70px;
+      text-align: center;
+    }
+  </style>
 </head>
+
 <body>
-    <header>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
         <h1>YELP DATA VISUALIZATION</h1>
-    </header>
-
-    <div class="sidebar">
-        <div class="sidebar-section">
-            <h2 onclick="showDashboard()">Dashboard</h2>
-            <!-- Add content for the dashboard menu -->
-        </div>
-        <div class="sidebar-section">
-            <h2 onclick="showRating()">Rating</h2>
-            <!-- Add content for the rating menu -->
-        </div>
-        <div class="sidebar-section">
-            <h2 onclick="showMap()">Map</h2>
-            <!-- Add content for the map menu -->
-        </div>
+        <p>Use the interactive charts below to explore the dataset</p>
+      </div>
     </div>
+    <div class="row">
+      <div class="col-md-2">
+        <div class="well">
+          <h5>Category:</h5>
+          <select id="selDataset" onchange="optionChanged(this.value)"></select>
+        </div>
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Restaurant Info</h3>
+          </div>
+          <div class="panel-body">
+            <div id="sample-metadata"></div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-5">
+        <div id="top-restaurants-bar"></div>
+      </div>
+      <div class="col-md-5">
+        <div id="gauge"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div id="bubble"></div>
+      </div>
+    </div>
+  </div>
 
-    <!-- Add the chart container -->
-    <div id="chart-container"></div>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="Startcode/logic.js"></script>
 
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <script>
-        function showDashboard() {
-            // Implement the logic to show the dashboard
-            console.log('Show Dashboard');
-        }
-
-        function showRating() {
-            // Implement the logic to show the rating
-            console.log('Show Rating');
-        }
-
-        function showMap() {
-            // Implement the logic to show the map
-            console.log('Show Map');
-        }
-
-        // Global Utility Variables
-        var data = {};
-
-        // Global HTML selectors
-        var inputSelector = d3.select("#selDataset");
-        var panelDemoInfo = d3.select("#sample-metadata");
-
-        function titleCase(str) {
-          return str.toLowerCase().split(' ').map(function(word) {
-            return (word.charAt(0).toUpperCase() + word.slice(1));
-          }).join(' ');
-        }
-
-        // Populate the Demographic Info panel
-        function populateDemoInfo(idNum) {
-          // Log a change
-          console.log("Pop: " + idNum);
-
-          // Just grab the one ID we want
-          var metadataFilter = data.metadata.filter(item => item["id"] == idNum);
-          console.log(`metaFilter length: ${metadataFilter.length}`);
-
-          // Clear out the data first
-          panelDemoInfo.html("");
-
-          // Fill it back in
-          Object.entries(metadataFilter[0]).forEach(([key, value]) => { var titleKey = titleCase(key); panelDemoInfo.append("h6").text(`${titleKey}: ${value}`) });
-        }
-
-        // Object Compare Function
-        function compareValues(key, order = 'asc') {
-          return function innerSort(a, b) {
-            if (!a.hasOwnProperty(key) || !b.hasOwnProperty(key)) {
-              // property doesn't exist on either object
-              return 0;
-            }
-            const varA = (typeof a[key] === 'string')
-              ? a[key].toUpperCase() : a[key];
-            const varB = (typeof b[key] === 'string')
-              ? b[key].toUpperCase() : b[key];
-            let comparison = 0;
-            if (varA > varB) {
-              comparison = 1;
-            } else if (varA < varB) {
-              comparison = -1;
-            }
-            return (
-              (order === 'desc') ? (comparison * -1) : comparison
-            );
-          };
-        }
-
-        // Load the JSON data
-        d3.json("Data/sample.json").then(function(jsonData) {
-            data = jsonData;
-        });
-    </script>
-
-    <script src="Startcode/logic.js"></script>
 </body>
+
 </html>
+
+
+
+
+
+
+
+
 
 
 
