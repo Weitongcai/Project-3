@@ -7,6 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>YELP DATA VISUALIZATION</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  
   <style>
     /* CSS styles for the header and sidebar */
     .jumbotron {
@@ -60,10 +61,12 @@
       </div>
     </div>
   </div>
-  <div id="bubble-chart"></div>
+      <div id="bubble-plot"></div>
+      <div id="pie-plot"></div>
+
   <script src="https://d3js.org/d3.v5.min.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="Startcode/logic.js"></script>
+  
   <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.js"></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.css" />
 
@@ -117,29 +120,22 @@
         return (order === 'desc') ? (comparison * -1) : comparison;
       };
     }
+  
+   // Event handler for the select element
+   function optionChanged(value) {
+  populateRestaurantsInfo(value);
+  createTopRatedRestaurantsChart(value);
+  createBubbleChart(value);
+  createPieChart(value);
+}
 
-    // Event handler for the select element
-    function optionChanged(value) {
-      populateRestaurantsInfo(value);
-    }
-
-    // Load the JSON data from the file
-    d3.json("sample.json").then(function(jsonData) {
-      data = jsonData; // Assign the loaded data to the data variable
-
-      // Populate the select element with options
-      var categories = [...new Set(data.map(item => item.categories.split(", ")).flat())];
-      categories.forEach(category => {
-        inputSelector.append("option").text(category).attr("value", category);
-      });
-    }).catch(function(error) {
-      console.log("Error loading JSON data: " + error);
-    });
   </script>
+<script src="logic.js"></script>
 
 </body>
 
 </html>
+
 
 
 
