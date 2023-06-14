@@ -1,0 +1,401 @@
+name,rating,price,categories,city,address,reviews,latitude,longitude
+Sushi House,4.5,$$,"Japanese, Sushi Bars",Brampton,"135 Main Street N, Brampton, ON L6X, Canada",177,43.687913,-79.762916
+Heritage Fish & Chips,4.0,$$,"Seafood, Fish & Chips",Brampton,"295 Queen Street E, Brampton, ON L6W 3R1, Canada",89,43.70221658312672,-79.73652767266209
+August 8,4.0,$$,"Japanese, Dim Sum, Sushi Bars",Brampton,"25 Peel Centre Drive, UNIT 513, Brampton, ON L6T 5T9, Canada",155,43.7177466810269,-79.7235801815987
+RD's Southern BBQ,4.0,$$,"Southern, Barbeque",Brampton,"71 Rosedale Avenue, Brampton, ON L6X 1K5, Canada",114,43.68717151422133,-79.77075626594811
+Gladiator Burger,4.5,$$,"Burgers, Sandwiches, Fast Food",Brampton,"16 Lisa Street, Brampton, ON L6T 5R2, Canada",25,43.713690269351524,-79.72840282331377
+Mandarin Restaurant,4.0,$$,"Chinese, Buffets",Brampton,"238 Biscayne Crescent, Brampton, ON L6W 4S1, Canada",126,43.677309476884,-79.7082919249438
+Harbourside Fish and Chips,4.5,$$,"Seafood, Fish & Chips",Brampton,"180 Sandalwood Parkway E, Brampton, ON L6Z 1Y4, Canada",30,43.7279766367963,-79.7956253215671
+The Keg Steakhouse + Bar - Bramalea,4.0,$$$,"Seafood, Steakhouses, Bars",Brampton,"46 Peel Centre Drive, Brampton, ON L6T 4E2, Canada",56,43.71509871540358,-79.7261437428246
+Green Bites Dumpling & Tea Bar,4.5,$$,"Chinese, Tea Rooms",Brampton,"35 Resolution Drive, Suite B10, Brampton, ON L6W 0A6, Canada",125,43.6789599,-79.72087
+Pho Ngoc Yen Restaurant,4.5,$$,Vietnamese,Mississauga,"1090 Kamato Road, Mississauga, ON L4W 2P3, Canada",459,43.638760740612305,-79.64369129581637
+Sweet Palace Restaurant,4.0,$,Indian,Brampton,"1098 Peter Robertson Boulevard, Brampton, ON L6R 3A5, Canada",73,43.7575956710937,-79.7370477803991
+Xaymaca Restaurant,4.0,$$,Caribbean,Brampton,"30 Kennedy Road S, Brampton, ON L6W 3E2, Canada",32,43.693190452868,-79.7455478931847
+Queen Gypsy,4.5,$$,Modern European,Brampton,"10 Main Street S, Brampton, ON L6W 2C3, Canada",32,43.685689,-79.759291
+The Works Gourmet Burger Bistro,4.0,$$,Burgers,Brampton,"8 Queen Street E, Brampton, ON L6V 1A2, Canada",99,43.68636,-79.75966
+Incredible India,4.5,$$,Indian,Brampton,"10635 Bramalea Road, Unit J7, Brampton, ON L6R 3P4, Canada",31,43.75597,-79.7591
+Mirch Masala,4.0,$$,Indian,Brampton,"263 Queen Street E, Brampton, ON L6W 3J3, Canada",57,43.7002,-79.74227
+Kelseys Original Roadhouse,3.5,$$,"Comfort Food, Bars, Canadian (New)",Brampton,"70 Quarry Edge Dr, Brampton, ON L6Z 4K2, Canada",45,43.707373,-79.78422
+Moxies,3.5,$$,"Canadian (New), Steakhouses, Lounges",Brampton,"56 Peel Centre Drive, Brampton, ON L6T 0E2, Canada",97,43.713787,-79.725644
+Rick's Good Eats,4.5,$$,"Indian, Canadian (New)",Mississauga,"6660 Kennedy Road, Unit 1, Mississauga, ON L5T 2V3, Canada",400,43.64849814518965,-79.68609655576972
+That Italian Place Cafe & Eatery,4.0,$$,"Italian, Cafes, Pizza",Brampton,"470 Chrysler Drive, Ste 32, Brampton, ON L6S 0C1, Canada",78,43.747506105181,-79.7138679027557
+Toshi Japanese Restaurant,4.0,$$,"Japanese, Sushi Bars",Brampton,"10 Gillingham Dr, Brampton, ON L6X 5A5, Canada",100,43.703302781989,-79.784568229954
+JACK ASTOR'S,3.0,$$,"Canadian (New), Sports Bars, Burgers",Brampton,"154 West Drive, Brampton, ON L6T 5P1, Canada",73,43.70838442,-79.734247
+St Louis Bar and Grill,3.5,$$,"Sports Bars, Chicken Wings",Brampton,"100 Peel Centre Drive, Brampton, ON L6T 4G8, Canada",34,43.7117911206433,-79.7230257797705
+Briskit Gourmet Slow Cooked Sandwiches,4.5,$$,"Sandwiches, Barbeque, Breakfast & Brunch",Brampton,"160 Wilkinson Road, Unit 40, Brampton, ON L6T 4Z4, Canada",59,43.6923259955996,-79.7000226658844
+Demetres Bramalea,4.0,$$,"Desserts, Ice Cream & Frozen Yogurt, Coffee & Tea",Brampton,"50 Peel Centre Drive, Brampton, ON L6T 0E2, Canada",72,43.714701,-79.7264478
+Nando's Peri-Peri,3.5,$$,"Portuguese, Chicken Shop",Brampton,"10015 Hurontario St, Unit #1, Building D, Brampton, ON L6Z 0E5, Canada",67,43.7077446,-79.7856743
+Yoyo Japanese Restaurant,4.5,$$,Japanese,Georgetown,"348 Guelph Street, Georgetown, ON L7G 4B6, Canada",39,43.6484851,-79.8827046
+Fanzorelli's Restaurant & Wine Bar,3.5,$$,"Italian, Wine Bars, Pizza",Brampton,"50 Queen Street W, Brampton, ON L6X 4H3, Canada",40,43.685066,-79.761212
+Vishnu's Doubles & Roti Shop,4.0,$,Caribbean,Brampton,"10215 Kennedy Road N, Unit 10, Brampton, ON L6Z 0C5, Canada",25,43.720368,-79.782015
+Tandoori Flame,3.5,$$,"Indian, Buffets",Brampton,"8150 Dixie Road, Brampton, ON L6T 5N9, Canada",273,43.701668562688,-79.711598154588
+Paranthe Wali Gali,4.0,$$,Indian,Brampton,"143 Clarence St, Unit 3, Brampton, ON L6W 1T2, Canada",56,43.68841,-79.7417399
+Guru Lukshmi,4.0,$$,Indian,Mississauga,"7070 St Barbara Boulevard, Unit 45 & 50, Mississauga, ON L5W 0E6, Canada",569,43.6393317020495,-79.7159669611217
+The Keg Steakhouse + Bar,3.5,$$$,"Steakhouses, Bars, Seafood",Brampton,"70 Gillingham Drive, Brampton, ON L6X 4X7, Canada",35,43.70453691003954,-79.7861122
+Wok Of Fame,3.5,$$,"Japanese, Buffets, Chinese",Brampton,"7700 Hurontario Street, Unit 602, Brampton, ON L6Y 4M3, Canada",222,43.6599632467358,-79.7260410879285
+Le Kochi Cuisine Restaurant,3.5,$$,Indian,Brampton,"20 Dewside Drive, Unit  D10, Brampton, ON L6R 3Y3, Canada",37,43.7562714,-79.7628273
+Antica Osteria,3.5,$$,Italian,Brampton,"3088 Mayfield Road, Brampton, ON L6Z 4R5, Canada",57,43.73632,-79.82278
+Fionn Maccools,3.5,$$,"Bars, Gastropubs",Brampton,"120 Great Lakes Drive, Brampton, ON L6R 2K7, Canada",18,43.7298481529591,-79.7643731481629
+Freshly Thai,3.5,$$,Thai,Brampton,"48 Queen Street W, Brampton, ON L6X 1A1, Canada",50,43.6853147,-79.7609334
+Lena's Roti & Doubles,4.5,$,"Indian, Caribbean",Brampton,"100 Maritime Ontario Boulevard, Unit 69, Brampton, ON L6S, Canada",30,43.74918,-79.69767
+Zet's Restaurant,4.0,$$,"Diners, Greek",Mississauga,"6445 Airport Road, Mississauga, ON L4V 1Y4, Canada",440,43.6931,-79.62737
+Twin Fish Thai Cuisine,4.0,$$,Thai,Mississauga,"80 Courtneypark Drive E, Unit K2, Mississauga, ON L5T 2Y3, Canada",229,43.6382184,-79.6927568
+Pepper On The Side,4.0,$,Caribbean,Brampton,"10671 Chinguacousy Road, Brampton, ON L7A 0N5, Canada",45,43.6989887,-79.82259358431874
+Betta Jerk,4.0,$,Caribbean,Brampton,"2901 Queen Street E, Brampton, ON L6T, Canada",36,43.7395903,-79.6993696
+Baker's Jerk House,4.0,$,Caribbean,Brampton,"50 Sunnyvale Gate, Brampton, ON L6S 6J1, Canada",59,43.75692,-79.72997
+Eggsmart,4.0,$$,Breakfast & Brunch,Brampton,"164 Sandalwood Parkway East, West of Kennedy Rd. Heart Lake Plaza, Brampton, ON L6Z 3S4, Canada",22,43.72740196,-79.79755811
+Annalakshmi,4.0,$,"Indian, Vegetarian",Brampton,"10086 Hurontario Street, Brampton, ON L6P 0A1, Canada",43,43.7073327722108,-79.789750978265
+Baigs Grill,4.0,$$,Indian,Brampton,"124 Kennedy Road S, Unit 2, Brampton, ON L6W 3E7, Canada",24,43.68653,-79.7363699
+Friends Restaurant,4.0,$$,Breakfast & Brunch,Brampton,"155 Clark Boulevard, Unit 1, Brampton, ON L6T 4G6, Canada",21,43.7048529124653,-79.726204154678
+Onyxx Sports Bar & Grill,4.0,$$,"Sports Bars, American (Traditional), DJs",Brampton,"70 Maritime Ontario Boulevard, Brampton, ON L6S 0E7, Canada",32,43.748199,-79.698209
+Henry's Fish & Chips,4.0,$$,"Seafood, Fish & Chips, Salad",Brampton,"320 Main Street N, Brampton, ON L6V 4A3, Canada",24,43.69318,-79.76819
+Smash Kitchen & Bar,4.0,$$,"Comfort Food, American (Traditional), Seafood",Unionville,"4261 Highway 7 E, Unionville, ON L3R 9W6, Canada",860,43.85912,-79.31473
+NextDoor Restaurant,4.0,$$,"Canadian (New), Bars, Tapas/Small Plates",Markham,"139 Main Street Unionville, Markham, ON L3R 2G6, Canada",557,43.8654,-79.31005
+Azyun Restaurant,4.0,$$,"Chinese, Tapas Bars",Markham,"144 Main Street N, Unit 17, Markham, ON L3P 5T3, Canada",257,43.8789007046804,-79.2611804232001
+Ruth's Chris Steak House,4.0,$$$$,"Steakhouses, Lounges, Seafood",Markham,"170 Enterprise Blvd, Markham, ON L6G 0E6, Canada",108,43.8495534,-79.3245362
+Alchemy Coffee,4.0,$$,"Coffee & Tea, Breakfast & Brunch",Markham,"4361 Highway 7 E, Unit 1, Markham, ON L3R 1M1, Canada",605,43.860536887326894,-79.312339
+Chiang Rai Thai Kitchen and Bar,4.0,$$,"Thai, Asian Fusion, Cocktail Bars",Markham,"7750 Kennedy Rd, Markham, ON L3R 0A7, Canada",218,43.84265,-79.30605
+Inspire Restaurant,4.0,$$,"Asian Fusion, Burgers",Markham,"144 Main Street N, Unit 1, Markham, ON L3P 5T3, Canada",524,43.87922873459434,-79.26133878280334
+Kiu Japanese Restaurant,3.5,$$,"Japanese, Sushi Bars, Asian Fusion",Markham,"169 Enterprise Boulevard, 2nd Floor, Markham, ON L6G 0E7, Canada",393,43.8496812,-79.3220427
+Draco Markham,4.0,$$,"Canadian (New), Asian Fusion, Cocktail Bars",Markham,"170 Enterprise Boulevard, Markham, ON L6G 1B3, Canada",110,43.8497519,-79.3242324
+Poke Guys,4.0,$$,"Poke, Hawaiian",Markham,"8110 Birchmount Road, Unit 10, Markham, ON L6G 0E3, Canada",252,43.8505186,-79.3256871
+Peter's Fine Dining,4.0,$$$,"Seafood, Steakhouses",Markham,"5701 Highway 7, Markham, ON L3P 1B1, Canada",180,43.8710271,-79.2682683
+Good Catch Cafe,4.0,$$,Hong Kong Style Cafe,Markham,"179 Enterprise Blvd, Unit 109, Markham, ON L6G 0A2, Canada",132,43.84966273452512,-79.32241793707824
+Gyubee Japanese Grill - Markham,4.0,$$$,"Japanese, Barbeque",Markham,"7100 Woodbine Avenue, Unit 100, Markham, ON L3R 5J2, Canada",564,43.81579,-79.34991
+Good Taste Casserole Rice - Unionville,4.0,$$,Chinese,Markham,"8390 Kennedy Road, Markham, ON L3R 0W4, Canada",161,43.8612822,-79.3036518
+Good Catch Boil House,3.5,$$,"Cajun/Creole, Seafood, Asian Fusion",Markham,"179 Enterprise Boulevard, Unit M-109, Markham, ON L6G 0A2, Canada",470,43.8495966723562,-79.3224447593093
+Kore Chicken,4.5,$$,"Korean, Chicken Wings",Markham,"28 South Unionville Avenue, Unit 10, Markham, ON L3R 4P9, Canada",169,43.8558089565539,-79.3042279215653
+Il Postino,4.0,$$$,Italian,Unionville,"186 Main Street, Unionville, ON L3R 2G9, Canada",127,43.86747,-79.31264
+Sushi Umi,4.5,$$$$,Sushi Bars,Markham,"3621 Highway 7 E, Unit 104-105, Markham, ON L3R 0G6, Canada",39,43.854169,-79.337508
+Fat Ninja Bite,4.5,$$,"Japanese, Burgers, Korean",Toronto,"3517 Kennedy Road, Toronto, ON M1V 4Y3, Canada",540,43.82298649562184,-79.30644546697775
+Joey Markville,3.5,$$$,"Canadian (New), Lounges, Steakhouses",Markham,"1247 - 5000 Highway 7 E, Markham, ON L3R 4M9, Canada",311,43.86757634830122,-79.2889818
+Tenon Vegetarian Cuisine,4.0,$$,"Sushi Bars, Vegetarian",Markham,"8362 Kennedy Road, Unit 2, Markham, ON L3R, Canada",145,43.8602599,-79.30344
+Chef 88 Elite Fine Dining,3.5,$$,"Dim Sum, Seafood",Markham,"1661 Denison Street, Unit T1, Markham, ON L3R 6E4, Canada",96,43.83319407911679,-79.30558283139663
+Zen Japanese Restaurant,4.0,$$$$,"Japanese, Sushi Bars",Markham,"7634 Woodbine Avenue, Markham, ON L3R 2N2, Canada",190,43.8292695759825,-79.3532338992598
+Hibiki Japanese Cuisine,3.5,$$,"Japanese, Sushi Bars",Markham,"4450 Highway 7 E, Unit 3, Markham, ON L3R 1M2, Canada",187,43.8611603,-79.3113251
+Nam 2,3.5,$$,Vietnamese,Markham,"8380 Kennedy Road, Unit C7, Markham, ON L3R 9W4, Canada",152,43.86065,-79.30437
+Sansotei Ramen,3.5,$$,Japanese,Markham,"3987 Highway 7 E, Markham, ON L3R 5M6, Canada",384,43.8578729,-79.3241531
+MINE Sushi,4.0,$$,"Japanese, Sushi Bars",Markham,"8865 Woodbine Avenue, Markham, ON L3R 5G, Canada",292,43.8578515,-79.359668
+The School Fine Dining,4.0,$$$,"Steakhouses, Venues & Event Spaces",Markham,"4121 Avenue 14th, Markham, ON L3R 0J2, Canada",57,43.84013,-79.31681
+Daldongnae,4.5,$$$,"Korean, Barbeque",Toronto,"4771 Steeles Ave E, Toronto, ON M1V 4S5, Canada",123,43.82525,-79.29878
+Yin Ji Chang Fen,4.0,$$,Chinese,Markham,"7010 Warden Avenue, Unit 17-18, Markham, ON L3R 5Y3, Canada",371,43.82018,-79.3254
+Terre Rouge,3.0,$$$,French,Markham,"162 Enterprise Boulevard, Unit 1, Markham, ON L6G 0A2, Canada",197,43.8492899377849,-79.3259739289411
+Jin Korean Noodles,4.5,$$,"Korean, Dumplings, Noodles",Markham,"230 Commerce Valley Dr E, Unit 9, Markham, ON L3T 7Y3, Canada",130,43.8440031815594,-79.3779956950391
+Ambiyan,3.5,$$,"Indian, Gastropubs",Unionville,"149 Main Street, Unionville, ON L3R 2G8, Canada",143,43.86632,-79.31114
+Osaka Sushi Japanese Korean Restaurant,4.0,$$,"Japanese, Korean, Sushi Bars",Markham,"5762 Highway 7 E, Markham, ON L3P 1A8, Canada",442,43.8717424,-79.2664359
+Big Trio Wonton Noodle,4.0,$$,"Chinese, Noodles",Markham,"28 S Unionville Avenue, Markham, ON L3R 1J5, Canada",127,43.8559113,-79.3038177
+Main St Greek,4.0,$$,Greek,Markham,"60 Main Street N, Markham, ON L3P 1X5, Canada",162,43.8759432609327,-79.2604827692484
+Duo Patisserie & Cafe,4.5,$$$,"Desserts, Coffee & Tea, Bakeries",Markham,"230 Commerce Valley Drive E, Unit 4, Markham, ON L3T 7Y3, Canada",485,43.8436699120798,-79.3778179585934
+Toyosu Markham,4.0,$$,Sushi Bars,Markham,"8339 Kennedy Rd, 2660, Markham, ON L3R 1J5, Canada",121,43.85727,-79.30337
+Big Beef Bowl Hand-Pulled Noodle,4.0,$$,"Noodles, Chinese, Barbeque",Markham,"8362 Kennedy Road, New Kennedy Square, Markham, ON L3R 9W5, Canada",333,43.8602599,-79.30344
+Hutaoli Music Restaurant & Bar,3.5,$$$,"Chinese, Bars",Markham,"3760 Highway 7 E, Unit 1, Markham, ON L3R 0N2, Canada",107,43.8566329,-79.332572
+Pho Time Authentic Vietnamese Eatery,4.0,$$,Vietnamese,Markham,"9255 Woodbine Avenune, Unit 7A, Markham, ON L6C 1Y9, Canada",76,43.870027612293875,-79.36093480202202
+Tapagria Spanish Tapas,3.5,$$,"Spanish, Tapas Bars, Seafood",Markham,"230 Commerce Valley Drive E, Unit 2, Markham, ON L3T 7Y3, Canada",292,43.84368,-79.37783
+Old Country Inn Restaurant,3.5,$$,Austrian,Unionville,"198 Main Street, Unionville, ON L3R 2G9, Canada",94,43.86787,-79.31272
+MiKi Sushi,4.0,$$,"Sushi Bars, Japanese",Markham,"4471 Highway 7, Markham, ON L3R 1M1, Canada",135,43.8610264,-79.3107947
+Big Bone BBQ & Wicked Wings,4.0,$$,"Barbeque, Chicken Wings",Markham,"180 Bullock Drive, Markham, ON L3P 7N3, Canada",245,43.8748269897109,-79.280346147716
+Pho Metro,4.0,$$,"Vietnamese, Comfort Food, Noodles",Markham,"50 Bur Oak Avenue, Unit 7, Markham, ON L6C 0A2, Canada",204,43.8892499,-79.3149
+MABU Generation,3.5,$$,Taiwanese,Markham,"3235 Highway 7, Unit 23-26, Markham, ON L3R 3P3, Canada",433,43.84872,-79.347935
+Pig & Chick,4.5,$$,Korean,Markham,"190 Main Street, Unit 2, Markham, ON L3R 2G9, Canada",14,43.867704749425755,-79.31248640386501
+AKA-ONI Ramen&izakaya -Scarborough,4.0,$$,"Japanese, Sushi Bars, Asian Fusion",Toronto,"633 Silver Star Blvd, Unit 108, Toronto, ON M1V 5N1, Canada",328,43.8219855640577,-79.298919766399
+Skyview Fusion Cuisine,3.5,$$,"Dim Sum, Venues & Event Spaces, Caterers",Markham,"8261 Woodbine Avenue, Markham, ON L3R 8Z5, Canada",299,43.844189,-79.3560497
+Pho Ngoc Yen Restaurant,4.5,$$,Vietnamese,Mississauga,"1090 Kamato Road, Mississauga, ON L4W 2P3, Canada",459,43.638760740612305,-79.64369129581637
+The Wilcox Gastropub,4.0,$$,"Gastropubs, Breakfast & Brunch, Cocktail Bars",Mississauga,"30 Eglinton Avenue W, Mississauga, ON L5R 3E7, Canada",356,43.6060467626593,-79.6528506651521
+The Maharaja,4.0,$$$,Indian,Mississauga,"4646 Heritage Hills Boulevard, Unit 3, Mississauga, ON L5R 1Y3, Canada",155,43.59939,-79.66033
+Rick's Good Eats,4.5,$$,"Indian, Canadian (New)",Mississauga,"6660 Kennedy Road, Unit 1, Mississauga, ON L5T 2V3, Canada",400,43.64849814518965,-79.68609655576972
+Union Social Eatery,4.0,$$,"Burgers, Sandwiches, American (Traditional)",Mississauga,"6986 Financial Drive, Unit 6, Mississauga, ON L5N 8J4, Canada",392,43.6112458,-79.7490723
+Gyubee Japanese Grill - Mississauga,4.5,$$$,"Japanese, Barbeque",Mississauga,"4559 Hurontario St, Unit A2, Mississauga, ON L4Z 3L9, Canada",124,43.6045973,-79.6494211
+Watan Kabob,4.0,$$,Afghan,Mississauga,"55 Matheson Boulevard E, Unit 2, Mississauga, ON L4Z 1X8, Canada",221,43.6199294,-79.6692718
+Alioli Ristorante,4.0,$$$,Italian,Mississauga,"350 Burnhamthorpe Road W, Mississauga, ON L5B 3J1, Canada",122,43.5852,-79.644006
+The Keg Steakhouse + Bar,4.0,$$$,"Steakhouses, Bars, Seafood",Mississauga,"670 Matheson Boulevard W, Heartland Town Centre, Mississauga, ON L5R 3T2, Canada",99,43.609511,-79.689827
+Twin Fish Thai Cuisine,4.0,$$,Thai,Mississauga,"80 Courtneypark Drive E, Unit K2, Mississauga, ON L5T 2Y3, Canada",229,43.6382184,-79.6927568
+Scaddabush,3.5,$$,"Italian, Wine Bars, Beer, Wine & Spirits",Mississauga,"209 Rathburn Road West, Mississauga, ON L5B 4E5, Canada",437,43.5933827,-79.64876401
+Guru Lukshmi,4.0,$$,Indian,Mississauga,"7070 St Barbara Boulevard, Unit 45 & 50, Mississauga, ON L5W 0E6, Canada",569,43.6393317020495,-79.7159669611217
+Miga Korean BBQ Restaurant,4.0,$$$,"Japanese, Korean, Barbeque",Mississauga,"2382 Dundas Street W, Mississauga, ON L5K 1R7, Canada",306,43.5293729514098,-79.6734766202265
+Cagneys Steakhouse & Wine Bar,4.0,$$$,"Steakhouses, Wine Bars, Seafood",Mississauga,"128 Queen Street S, Mississauga, ON L5M 1K8, Canada",127,43.58265,-79.71752
+Katsuya,4.5,$$,"Japanese, Asian Fusion",Mississauga,"1224 Dundas Street W, Mississauga, ON L5C 4G7, Canada",175,43.5539042328967,-79.6453385342378
+Avani Asian Indian Bistro,3.5,$$,"Indian, Asian Fusion",Mississauga,"801 Matheson Boulevard W, Unit 1, Mississauga, ON L5V 2N6, Canada",304,43.60632743859953,-79.69189471166078
+Sushi Omigoto,4.5,$$,"Sushi Bars, Japanese, Korean",Mississauga,"E1 - 888 Dundas Street E, Mississauga, ON L4Y 4G6, Canada",190,43.59714220385148,-79.5944882781007
+Shawarnado,4.5,$$,Mediterranean,Mississauga,"4870 Tomken Road, Mississauga, ON L4W 1J8, Canada",49,43.62577,-79.62935
+Basil Box,4.0,$$,"Vietnamese, Thai, Gluten-Free",Mississauga,"100 City Centre Drive, Mississauga, ON L5B 2C9, Canada",85,43.5928749,-79.6430241
+Mi'hito Sushi Laboratory,4.0,$$,"Japanese, Asian Fusion, Sushi Bars",Mississauga,"90 Courtneypark Drive E, Mississauga, ON L5T 2Y3, Canada",120,43.6372958008312,-79.6919128613327
+Sansotei Ramen,4.0,$$,Ramen,Mississauga,"100 City Centre Drive, Unit 2-817 Square One, Mississauga, ON L5B 2C9, Canada",138,43.5941118563128,-79.6426895834671
+Congee Queen,3.5,$$,Chinese,Mississauga,"800 Boyer Boulevard, Unit 5, Mississauga, ON L5V 2Y1, Canada",259,43.6120338404311,-79.6992362075354
+Chilli Chicken House,4.0,$$,"Chinese, Indian",Mississauga,"4040 Creditview Road, Unit 25, Mississauga, ON L5C, Canada",416,43.5681923545558,-79.666453152895
+Kamen,4.0,$$,"Soup, Noodles, Ramen",Mississauga,"720 Burnhamthorpe Road W, Mississauga, ON L5C 3G1, Canada",360,43.57765,-79.6527
+Reds,3.5,$$$,"Venues & Event Spaces, Argentine, Wine Bars",Mississauga,"100 City Centre Drive, Unit #2-815, Square One, Mississauga, ON L5B 2C9, Canada",149,43.593752,-79.643242
+Panagio's All Day Grill,4.0,$$,"American (Traditional), Breakfast & Brunch",Mississauga,"6085 Creditview Road, Unit 17, Mississauga, ON L5V 2A8, Canada",141,43.59987806058704,-79.71270469597843
+Thai Rice,4.0,$$,Thai,Mississauga,"1201 Britannia Road W, Unit 2, Mississauga, ON L5V 1N2, Canada",47,43.602989,-79.706799
+Spoon and Fork Corner,4.0,$$,"Japanese, Bubble Tea, Sushi Bars",Mississauga,"1225 Dundas Street E, Suite 14B, Mississauga, ON L4Y 2C5, Canada",142,43.6065001162476,-79.5879746494251
+Fionn MacCool's Irish Pub,3.5,$$,"Bars, Beer, Wine & Spirits, Gastropubs",Mississauga,"825 Britannia Road W, Mississauga, ON L5V 2X8, Canada",57,43.609617973612416,-79.69920144313024
+Milestones,3.0,$$,"Comfort Food, Bars, Canadian (New)",Mississauga,"730 Matheson Boulevard West, Mississauga, ON L5R 3T2, Canada",67,43.60916,-79.69095
+Culinaria Restaurant,4.0,$$$,American (Traditional),Mississauga,"5732 Kennedy Road, Mississauga, ON L4Z 1T1, Canada",29,43.6310117,-79.6620767
+Border MX Mexican Grill,4.0,$$,"Mexican, Bars, Halal",Mississauga,"277 Queen Street S, Mississauga, ON L5M 1L9, Canada",77,43.5795432101188,-79.7106006368995
+Takumi BBQ and Ramen,4.5,$$$,"Japanese, Barbeque",Mississauga,"1170 Burnhamthorpe Road W, Unit 12, Mississauga, ON L5C 4E6, Canada",61,43.5689876885603,-79.6628097072244
+Samara Kitchen,4.5,$,Indonesian,Mississauga,"13-6033 Shawson Drive, Mississauga, ON L5T 1E7, Canada",47,43.6490393766877,-79.6559201180935
+Andiamo Pasta Plus,4.0,$$,Italian,Mississauga,"135 Queen Street S, Mississauga, ON L5M 1K8, Canada",64,43.583290004422,-79.7156857699156
+Masrawy Egyptian Kitchen,4.0,$$,Egyptian,Mississauga,"2275 Britannia Rd W, Unit 1, Mississauga, ON L5M 2G6, Canada",137,43.58315086687568,-79.72881850205233
+La Carnita,3.5,$$,Mexican,Mississauga,"100 City Centre Drive, Mississauga, ON L5B 2C9, Canada",99,43.593078609238,-79.6424909681082
+Szechuan Noodle Bowl,4.0,$$,"Chinese, Noodles, Soup",Mississauga,"400 Dundas Street E, Mississauga, ON L5A 1X5, Canada",83,43.5883484,-79.6064301
+Raw Aura,4.5,$$,"Vegan, Live/Raw Food, Gluten-Free",Mississauga,"94 Lakeshore Rd E, Mississauga, ON L5G 1E3, Canada",143,43.5535,-79.58421
+Daddy O Doughnuts and British Baked Goods,4.5,$$,"Bakeries, Desserts, Donuts",Mississauga,"589 N Service Road, Unit 5, Mississauga, ON L5A 1B2, Canada",153,43.5818131148229,-79.5861366020917
+Huevos Gourmet,4.5,$$,"Mexican, Breakfast & Brunch",Mississauga,"241 Lakeshore Road, Mississauga, ON L5G 1G8, Canada",243,43.55929,-79.57699
+Zet's Restaurant,4.0,$$,"Diners, Greek",Mississauga,"6445 Airport Road, Mississauga, ON L4V 1Y4, Canada",440,43.6931,-79.62737
+Naan and Chai,4.0,$$,"Pakistani, Coffee & Tea",Mississauga,"10 Kingsbridge Garden Circle, Mississauga, ON L5R 3K7, Canada",25,43.60327,-79.64887
+Tomo Sushi,4.0,$$,"Sushi Bars, Japanese",Mississauga,"4040 Creditview Road, Mississauga, ON L5C 3Y8, Canada",74,43.56836201635685,-79.66531443494581
+Moxies,3.5,$$$,"Steakhouses, Lounges",Mississauga,"2001 Argentia Rd, Mississauga, ON L5N 2L3, Canada",144,43.60098,-79.7411
+The Keg Steakhouse + Bar,4.0,$$$,"Steakhouses, Bars, Seafood",Mississauga,"3130 Argentia Rd, Mississauga, ON L5N 0B1, Canada",58,43.59388,-79.78698
+Wonton Express,4.0,$,Chinese,Mississauga,"4040 Creditview Road, Unit 22, Mississauga, ON L5C 4E3, Canada",148,43.5680905685357,-79.6663006022573
+El Sombrero,3.5,$$,Mexican,Mississauga,"35 Brunel Road, Mississauga, ON L4Z 3E8, Canada",131,43.6258404660404,-79.6775539670437
+Jollibee,3.5,$$,"Fast Food, Chicken Shop",Mississauga,"800 Boyer Boulevard, Mississauga, ON L5V 1Y1, Canada",130,43.612424579122774,-79.69970762533904
+The Food District,4.5,$$,"Food Stands, Cooking Classes",Mississauga,"100 City Centre Drive, Mississauga, ON L5B 2C9, Canada",35,43.59474,-79.64068
+Moxies,3.5,$$,"Canadian (New), Steakhouses, Lounges",Pickering,"1815 Liverpool Rd, Pickering, ON L1V 1W2, Canada",85,43.83544,-79.08971
+Hibachi Grill,4.5,$$,"Japanese, Chinese",Pickering,"1848 Liverpool Road, Suite 6, Pickering, ON L1V 1W3, Canada",163,43.83646,-79.0915
+Amici,3.5,$$,Italian,Pickering,"1305 Pickering Parkway, Unit 103 & 104, Pickering, ON L1V 3P2, Canada",50,43.8329590444795,-79.0882793373285
+Halibut House Fish & Chips,4.5,$$,"Fish & Chips, Breakfast & Brunch, Chicken Wings",Pickering,"1101 Kingston Road, Unit B1, Pickering, ON L1V 1B5, Canada",25,43.82904479357247,-79.09664898838194
+The Works,3.5,$$,Burgers,Pickering,"1794 Liverpool Road, Pickering, ON L1V 4G7, Canada",71,43.8343514,-79.0901353
+PORT,3.5,$$$,"Seafood, American (Traditional)",Pickering,"1289 Wharf Street, Pickering, ON L1W 1A2, Canada",161,43.8151,-79.08332
+Horn Dawgs,4.5,$$,"Chicken Wings, Barbeque",Pickering,"1410 Bayly Street, Unit 5B, Pickering, ON L1W 3R3, Canada",73,43.8299691969118,-79.0823559086481
+Chuuk,3.5,$$,Mexican,Pickering,"774 Liverpool Rd, Pickering, ON L1W 1R9, Canada",97,43.82132,-79.08472
+Makimono,3.0,$$,"Japanese, Sushi Bars",Pickering,"1790 Liverpool Road, Pickering, ON L1V 1V9, Canada",111,43.8325699,-79.08981
+Zeera By The Bay,4.0,$$,Indian,Pickering,"713 Krosno Boulevard, Pickering, ON L1W 1G4, Canada",65,43.82141,-79.08295
+Dragon Rolls,2.5,$$,"Japanese, Thai",Pickering,"1105 Kingston Road, Pickering, ON L1V 1B5, Canada",127,43.83072221878013,-79.09642673143198
+Pho Saigon,3.5,$$,"Vietnamese, Thai",Pickering,"1794 Liverpool Road, Pickering, ON L1V 4G7, Canada",64,43.8333032,-79.0896937
+Vis-à-Vis,4.0,$$,"Pizza, Italian",Pickering,"1101 Kingston Road, Unit B5, Pickering, ON L1V 1B5, Canada",48,43.828927500300594,-79.09647762541938
+Thai Orchid Restaurant,3.5,$$,"Thai, Salad, Seafood",Pickering,"1450 Kingston Road, Pickering, ON L1V 1C1, Canada",56,43.8420661428482,-79.0833150795282
+Big M Burgers,4.0,$$,"Hot Dogs, Burgers",Pickering,"711 Krosno Boulevard, Pickering, ON L1W 1G4, Canada",65,43.8216786142599,-79.0837272761269
+The Kabab Shoppe,4.0,$$,"Afghan, Persian/Iranian, Mediterranean",Pickering,"1450 Kingston Road, Pickering, ON L1V 1C1, Canada",27,43.84183,-79.08402
+The Keg Steakhouse + Bar - Ajax,4.5,$$$,"Steakhouses, Bars, Seafood",Ajax,"190 Kingston Rd E, Ajax, ON L1Z 0C7, Canada",85,43.8636888,-79.0167972
+Beryl's Pepper Pot,3.5,$$,Caribbean,Pickering,"1101 B Kingston Road, Unit 3, Pickering, ON L1V 1B5, Canada",38,43.828574167925076,-79.09631065263976
+The Pickle Barrel,2.5,$$,"Canadian (New), Tapas/Small Plates, Cocktail Bars",Pickering,"1809 Liverpool Road, Pickering, ON L1V 1W2, Canada",60,43.83460942046511,-79.08955667879255
+Jack'S,2.5,$$,"Canadian (New), Sports Bars, Burgers",Pickering,"1355 Kingston Road, Unit #9001, Pickering, ON L1V 1B8, Canada",78,43.8379598,-79.0866626
+Fratelli Village Pizzeria,4.0,$$,Pizza,Scarborough,"384 Old Kingston Road, Scarborough, ON M1C 1B6, Canada",122,43.7839699,-79.16996
+Maimana Naan & Kabab,4.5,$$,"Afghan, Middle Eastern, Mediterranean",Ajax,"279 Kingston Road, Ajax, ON L1Z 0K5, Canada",109,43.8645515,-79.0104446
+Fat Bastard Burrito Co,4.0,$,Tex-Mex,Pickering,"726 Kingston Road, Unit 4, Pickering, ON L1V 1A8, Canada",61,43.82001,-79.11476
+Sakura Sushi Japanese Restaurant,4.0,$$,"Japanese, Sushi Bars",Pickering,"1550 Kingston Road, Pickering, ON L1V 1C3, Canada",48,43.84372,-79.08184
+Hakka Fusion,4.0,$$,Hakka,Pickering,"1670 Kingston Road, Pickering, ON L1V 3E2, Canada",31,43.8479130031085,-79.0753074187869
+Angelique's Family Restaurant,4.5,$$,Breakfast & Brunch,Ajax,"31 Barr Road, Ajax, ON L1S 3Y1, Canada",174,43.8299638247851,-79.0221525274052
+Pig Out Bbq,3.5,$$,"Barbeque, Burgers, Sandwiches",Pickering,"780 Kingston Road, Unit 6, Pickering, ON L1V 1A8, Canada",97,43.8220847682939,-79.1124629974365
+Spicy Dragon,3.0,$$,"Indian, Chinese",Pickering,"1340 Kingston Road, unit 3, Pickering, ON L1V 6P7, Canada",57,43.838487,-79.088718
+Bollocks Pub & Kitchen,3.5,$$,"British, Pubs, Sports Bars",Pickering,"736 Kingston Road, Pickering, ON L1V 1A8, Canada",35,43.8210527521635,-79.1147110701141
+Pizza Pino,4.0,$$,Pizza,Ajax,"855 Westney Road S, Ajax, ON L1S 3M4, Canada",132,43.83053,-79.02097
+Mandarin Restaurant,4.0,$$,"Chinese, Buffets",Pickering,"1725 Kingston Road, Pickering, ON L1V 4L9, Canada",27,43.8498943,-79.0706519
+Liverpool John's,3.5,$$,"Pubs, Canadian (New)",Pickering,"1294 Kingston Road, Pickering, ON L1V 1B7, Canada",20,43.837818145752,-79.0819091796875
+Island Mix Restaurant & Lounge,3.5,$$,"Caribbean, Chinese",Pickering,"1050 Brock Road, Pickering, ON L1W 3M1, Canada",42,43.8299903869629,-79.07421875
+East Side Mario's - Pickering,2.5,$$,"Italian, American (Traditional), Pizza",Pickering,"1355 Kingston Road, Unit 102, Pickering, ON L1V 1B8, Canada",45,43.83618798240727,-79.08604352378745
+Hot Mama Noi's Thai On The Fly,4.0,$$,Thai,Pickering,"1410 Bayly Street, Unit 6A, Pickering, ON L1W 3R3, Canada",61,43.830413271153,-79.0821379423141
+Cielito Lindo,4.0,$$,Mexican,Pickering,"1660 Kingston Road, Unit 6, Pickering, ON L1V 5R2, Canada",55,43.847246411496954,-79.07578038827614
+Caribbean Heat,4.0,$$,Caribbean,Pickering,"985 Brock Road, Pickering, ON L1W 3A4, Canada",11,43.83279,-79.06686
+Jasper Fish & Chips,4.0,$$,Seafood,Pickering,"1794 Liverpool Road, Pickering, ON L1V 4G7, Canada",21,43.83436171617472,-79.09076069968495
+Starbucks,3.5,$,Coffee & Tea,Pickering,"1300 Kingston Road, Pickering, ON L1V 3M9, Canada",24,43.836756,-79.089993
+Philthy Philly's,3.5,$$,"Sandwiches, Cheesesteaks",Pickering,"726 Kingston Road, Suite 3, Pickering, ON L1V 1A8, Canada",45,43.8200348766721,-79.1146848723292
+Perkins Restaurant & Bakery,3.0,$$,"Bakeries, American (Traditional), Breakfast & Brunch",Pickering,"1097 Kingston Rd, Pickering, ON L1V 1B5, Canada",26,43.82896,-79.09769
+Lone Star Texas Grill,3.0,$$,"Tex-Mex, Burgers, Steakhouses",Pickering,"705 Kingston Road, Pickering, ON L1V 6K3, Canada",47,43.81951,-79.11377
+The Mount Everest,4.0,$$,Indian,Ajax,"611 Kingston Road, Ajax, ON L1S 6L9, Canada",57,43.8543716,-79.0559305
+South St Burger,3.0,$$,Burgers,Pickering,"1105 Kingston Road, Brookdale Centre, Pickering, ON L1V 1B5, Canada",20,43.82909330917805,-79.09457128837451
+Trebilcock Coffee Roasters,5.0,$$,Coffee Roasteries,Pickering,"1035 Toy Avenue, Unit 19, Pickering, ON L1W 3N9, Canada",10,43.8356817,-79.0654737
+Roti n' Ting,4.0,$,Caribbean,Pickering,"1298 Kingston Road, Pickering, ON L1V 1B7, Canada",29,43.8373548301988,-79.0904878182241
+St Louis Bar And Grill,3.5,$$,"Sports Bars, Chicken Wings",Pickering,"3-1635 Bayly Street, Unit 2, Pickering, ON L1W 0B1, Canada",20,43.83144147,-79.07088526
+The Portly Piper,4.0,$$,Pubs,Ajax,"235 Bayly St W, Ajax, ON L1S 3K3, Canada",85,43.84137,-79.02674
+Magwyers Pub,4.0,$$,"Pubs, American (Traditional)",Ajax,"105 Bayly Street W, Ajax, ON L1S 7K7, Canada",31,43.8431383,-79.0215673
+Milos Greek Restaurant,2.5,$$,Greek,Pickering,"1450 Kingston Road, Pickering, ON L1V 1C1, Canada",44,43.8418151556785,-79.0840136
+Moxies,3.5,$$,"Canadian (New), Steakhouses, Lounges",Pickering,"1815 Liverpool Rd, Pickering, ON L1V 1W2, Canada",85,43.83544,-79.08971
+Hibachi Grill,4.5,$$,"Japanese, Chinese",Pickering,"1848 Liverpool Road, Suite 6, Pickering, ON L1V 1W3, Canada",163,43.83646,-79.0915
+Amici,3.5,$$,Italian,Pickering,"1305 Pickering Parkway, Unit 103 & 104, Pickering, ON L1V 3P2, Canada",50,43.8329590444795,-79.0882793373285
+Halibut House Fish & Chips,4.5,$$,"Fish & Chips, Breakfast & Brunch, Chicken Wings",Pickering,"1101 Kingston Road, Unit B1, Pickering, ON L1V 1B5, Canada",25,43.82904479357247,-79.09664898838194
+The Works,3.5,$$,Burgers,Pickering,"1794 Liverpool Road, Pickering, ON L1V 4G7, Canada",71,43.8343514,-79.0901353
+PORT,3.5,$$$,"Seafood, American (Traditional)",Pickering,"1289 Wharf Street, Pickering, ON L1W 1A2, Canada",161,43.8151,-79.08332
+Horn Dawgs,4.5,$$,"Chicken Wings, Barbeque",Pickering,"1410 Bayly Street, Unit 5B, Pickering, ON L1W 3R3, Canada",73,43.8299691969118,-79.0823559086481
+Chuuk,3.5,$$,Mexican,Pickering,"774 Liverpool Rd, Pickering, ON L1W 1R9, Canada",97,43.82132,-79.08472
+Makimono,3.0,$$,"Japanese, Sushi Bars",Pickering,"1790 Liverpool Road, Pickering, ON L1V 1V9, Canada",111,43.8325699,-79.08981
+Zeera By The Bay,4.0,$$,Indian,Pickering,"713 Krosno Boulevard, Pickering, ON L1W 1G4, Canada",65,43.82141,-79.08295
+Dragon Rolls,2.5,$$,"Japanese, Thai",Pickering,"1105 Kingston Road, Pickering, ON L1V 1B5, Canada",127,43.83072221878013,-79.09642673143198
+Pho Saigon,3.5,$$,"Vietnamese, Thai",Pickering,"1794 Liverpool Road, Pickering, ON L1V 4G7, Canada",64,43.8333032,-79.0896937
+Vis-à-Vis,4.0,$$,"Pizza, Italian",Pickering,"1101 Kingston Road, Unit B5, Pickering, ON L1V 1B5, Canada",48,43.828927500300594,-79.09647762541938
+Thai Orchid Restaurant,3.5,$$,"Thai, Salad, Seafood",Pickering,"1450 Kingston Road, Pickering, ON L1V 1C1, Canada",56,43.8420661428482,-79.0833150795282
+Big M Burgers,4.0,$$,"Hot Dogs, Burgers",Pickering,"711 Krosno Boulevard, Pickering, ON L1W 1G4, Canada",65,43.8216786142599,-79.0837272761269
+The Kabab Shoppe,4.0,$$,"Afghan, Persian/Iranian, Mediterranean",Pickering,"1450 Kingston Road, Pickering, ON L1V 1C1, Canada",27,43.84183,-79.08402
+The Keg Steakhouse + Bar - Ajax,4.5,$$$,"Steakhouses, Bars, Seafood",Ajax,"190 Kingston Rd E, Ajax, ON L1Z 0C7, Canada",85,43.8636888,-79.0167972
+Beryl's Pepper Pot,3.5,$$,Caribbean,Pickering,"1101 B Kingston Road, Unit 3, Pickering, ON L1V 1B5, Canada",38,43.828574167925076,-79.09631065263976
+The Pickle Barrel,2.5,$$,"Canadian (New), Tapas/Small Plates, Cocktail Bars",Pickering,"1809 Liverpool Road, Pickering, ON L1V 1W2, Canada",60,43.83460942046511,-79.08955667879255
+Jack'S,2.5,$$,"Canadian (New), Sports Bars, Burgers",Pickering,"1355 Kingston Road, Unit #9001, Pickering, ON L1V 1B8, Canada",78,43.8379598,-79.0866626
+Fratelli Village Pizzeria,4.0,$$,Pizza,Scarborough,"384 Old Kingston Road, Scarborough, ON M1C 1B6, Canada",122,43.7839699,-79.16996
+Maimana Naan & Kabab,4.5,$$,"Afghan, Middle Eastern, Mediterranean",Ajax,"279 Kingston Road, Ajax, ON L1Z 0K5, Canada",109,43.8645515,-79.0104446
+Fat Bastard Burrito Co,4.0,$,Tex-Mex,Pickering,"726 Kingston Road, Unit 4, Pickering, ON L1V 1A8, Canada",61,43.82001,-79.11476
+Sakura Sushi Japanese Restaurant,4.0,$$,"Japanese, Sushi Bars",Pickering,"1550 Kingston Road, Pickering, ON L1V 1C3, Canada",48,43.84372,-79.08184
+Hakka Fusion,4.0,$$,Hakka,Pickering,"1670 Kingston Road, Pickering, ON L1V 3E2, Canada",31,43.8479130031085,-79.0753074187869
+Angelique's Family Restaurant,4.5,$$,Breakfast & Brunch,Ajax,"31 Barr Road, Ajax, ON L1S 3Y1, Canada",174,43.8299638247851,-79.0221525274052
+Pig Out Bbq,3.5,$$,"Barbeque, Burgers, Sandwiches",Pickering,"780 Kingston Road, Unit 6, Pickering, ON L1V 1A8, Canada",97,43.8220847682939,-79.1124629974365
+Spicy Dragon,3.0,$$,"Indian, Chinese",Pickering,"1340 Kingston Road, unit 3, Pickering, ON L1V 6P7, Canada",57,43.838487,-79.088718
+Bollocks Pub & Kitchen,3.5,$$,"British, Pubs, Sports Bars",Pickering,"736 Kingston Road, Pickering, ON L1V 1A8, Canada",35,43.8210527521635,-79.1147110701141
+Pizza Pino,4.0,$$,Pizza,Ajax,"855 Westney Road S, Ajax, ON L1S 3M4, Canada",132,43.83053,-79.02097
+Mandarin Restaurant,4.0,$$,"Chinese, Buffets",Pickering,"1725 Kingston Road, Pickering, ON L1V 4L9, Canada",27,43.8498943,-79.0706519
+Liverpool John's,3.5,$$,"Pubs, Canadian (New)",Pickering,"1294 Kingston Road, Pickering, ON L1V 1B7, Canada",20,43.837818145752,-79.0819091796875
+Island Mix Restaurant & Lounge,3.5,$$,"Caribbean, Chinese",Pickering,"1050 Brock Road, Pickering, ON L1W 3M1, Canada",42,43.8299903869629,-79.07421875
+East Side Mario's - Pickering,2.5,$$,"Italian, American (Traditional), Pizza",Pickering,"1355 Kingston Road, Unit 102, Pickering, ON L1V 1B8, Canada",45,43.83618798240727,-79.08604352378745
+Hot Mama Noi's Thai On The Fly,4.0,$$,Thai,Pickering,"1410 Bayly Street, Unit 6A, Pickering, ON L1W 3R3, Canada",61,43.830413271153,-79.0821379423141
+Cielito Lindo,4.0,$$,Mexican,Pickering,"1660 Kingston Road, Unit 6, Pickering, ON L1V 5R2, Canada",55,43.847246411496954,-79.07578038827614
+Caribbean Heat,4.0,$$,Caribbean,Pickering,"985 Brock Road, Pickering, ON L1W 3A4, Canada",11,43.83279,-79.06686
+Jasper Fish & Chips,4.0,$$,Seafood,Pickering,"1794 Liverpool Road, Pickering, ON L1V 4G7, Canada",21,43.83436171617472,-79.09076069968495
+Starbucks,3.5,$,Coffee & Tea,Pickering,"1300 Kingston Road, Pickering, ON L1V 3M9, Canada",24,43.836756,-79.089993
+Philthy Philly's,3.5,$$,"Sandwiches, Cheesesteaks",Pickering,"726 Kingston Road, Suite 3, Pickering, ON L1V 1A8, Canada",45,43.8200348766721,-79.1146848723292
+Perkins Restaurant & Bakery,3.0,$$,"Bakeries, American (Traditional), Breakfast & Brunch",Pickering,"1097 Kingston Rd, Pickering, ON L1V 1B5, Canada",26,43.82896,-79.09769
+Lone Star Texas Grill,3.0,$$,"Tex-Mex, Burgers, Steakhouses",Pickering,"705 Kingston Road, Pickering, ON L1V 6K3, Canada",47,43.81951,-79.11377
+The Mount Everest,4.0,$$,Indian,Ajax,"611 Kingston Road, Ajax, ON L1S 6L9, Canada",57,43.8543716,-79.0559305
+South St Burger,3.0,$$,Burgers,Pickering,"1105 Kingston Road, Brookdale Centre, Pickering, ON L1V 1B5, Canada",20,43.82909330917805,-79.09457128837451
+Trebilcock Coffee Roasters,5.0,$$,Coffee Roasteries,Pickering,"1035 Toy Avenue, Unit 19, Pickering, ON L1W 3N9, Canada",10,43.8356817,-79.0654737
+Roti n' Ting,4.0,$,Caribbean,Pickering,"1298 Kingston Road, Pickering, ON L1V 1B7, Canada",29,43.8373548301988,-79.0904878182241
+St Louis Bar And Grill,3.5,$$,"Sports Bars, Chicken Wings",Pickering,"3-1635 Bayly Street, Unit 2, Pickering, ON L1W 0B1, Canada",20,43.83144147,-79.07088526
+The Portly Piper,4.0,$$,Pubs,Ajax,"235 Bayly St W, Ajax, ON L1S 3K3, Canada",85,43.84137,-79.02674
+Magwyers Pub,4.0,$$,"Pubs, American (Traditional)",Ajax,"105 Bayly Street W, Ajax, ON L1S 7K7, Canada",31,43.8431383,-79.0215673
+Milos Greek Restaurant,2.5,$$,Greek,Pickering,"1450 Kingston Road, Pickering, ON L1V 1C1, Canada",44,43.8418151556785,-79.0840136
+Nonesuch River Brewing,4.0,$$,"Breweries, Pubs, American (New)",Scarborough,"201 Gorham Rd, Scarborough, ME 04074",312,43.61724,-70.34323
+The Bait Shed,4.5,$$,"Seafood, American (Traditional), Cocktail Bars",Scarborough,"84 Jones Creek Rd, Scarborough, ME 04074",257,43.5438041687012,-70.3370819091797
+Jojo's Thai Kitchen,4.5,$$,"Thai, Noodles",Scarborough,"183 US Route 1, Scarborough, ME 04074",94,43.5952317000134,-70.327964907114
+Eventide Oyster Company,4.5,$$,Seafood,Portland,"86 Middle St, Portland, ME 04101",3822,43.65943,-70.25123
+Scales,4.5,$$$,"Seafood, American (New), Beer, Wine & Spirits",Portland,"68 Commercial St, Portland, ME 04101",849,43.65674221030201,-70.24961269170983
+Bite Into Maine,4.5,$$,"Seafood, Desserts, Sandwiches",Scarborough,"185 US Route One, Ste 2, Scarborough, ME 04074",179,43.59532,-70.32772
+Dunstan Tap & Table,4.0,$$,"Burgers, Cocktail Bars, Salad",Scarborough,"6 Stewart Dr, Scarborough, ME 04074",157,43.564371,-70.398017
+Luke's Lobster Portland Pier,4.5,$$,"Seafood, Soup, Sandwiches",Portland,"60 Portland Pier, Portland, ME 04101",701,43.655077,-70.2495978
+Oishi Japanese restaurant & Bar,4.0,$$,"Japanese, Sushi Bars, Noodles",Scarborough,"285 US-1, Scarborough, ME 04074",43,43.58930604803705,-70.34316607980867
+Tuscan Table,4.0,$$,Italian,South Portland,"390 Gorham Rd, South Portland, ME 04106",318,43.6359695864413,-70.3326553924661
+Sur Lie,4.5,$$,"American (New), Tapas Bars",Portland,"11 Free St, Portland, ME 04101",285,43.6567972,-70.2575073
+Central Provisions,4.5,$$$,"Tapas/Small Plates, Cocktail Bars",Portland,"414 Fore St, Portland, ME 04101",1215,43.656028,-70.253784
+The Highroller Lobster,4.5,$$,"Seafood, American (Traditional), Bars",Portland,"104 Exchange St, Portland, ME 04101",1529,43.658297,-70.256063
+Evo Kitchen + Bar,4.5,$$$,"Tapas/Small Plates, Mediterranean, Bars",Portland,"443 Fore St, Portland, ME 04101",381,43.6558599,-70.2550399
+Terlingua,4.5,$$,"Barbeque, Latin American, Bars",Portland,"40 Washington Ave, Portland, ME 04101",316,43.664676267002065,-70.25191722903502
+Pine Point Grill,4.0,$$,"American (New), Pizza, Burgers",Scarborough,"240 Pine Point Rd, Scarborough, ME 04074",102,43.55154,-70.35662
+Boda,4.5,$$,"Thai, Tapas/Small Plates",Portland,"671 Congress St, Portland, ME 04101",525,43.6533317565918,-70.2665863037109
+Street & Co.,4.5,$$$,"Seafood, American (New), Mediterranean",Portland,"33 Wharf St, Portland, ME 04101",1676,43.6558679491282,-70.2540271729231
+Isa Bistro,4.5,$$,"American (New), New Mexican Cuisine",Portland,"79 Portland St, Portland, ME 04101",266,43.6580973363855,-70.2649379650297
+The Honey Paw,4.5,$$,"Asian Fusion, American (New), Noodles",Portland,"78 Middle St, Portland, ME 04101",607,43.6595876703614,-70.2510230719194
+O'Reilly's Cure,3.5,$$,"Cocktail Bars, Irish Pub, American (New)",Scarborough,"264 Route 1, Scarborough, ME 04074",148,43.5888318595189,-70.3399762220972
+Duckfat,4.5,$$,American (New),Portland,"43 Middle St, Portland, ME 04101",2933,43.66025597804476,-70.25035486716648
+Broken Arrow,4.5,$$,"Tapas/Small Plates, American (New)",Portland,"545 Congress St, Portland, ME 04101",92,43.6555,-70.26188
+Scarborough Fish & Lobster,4.5,$$,"Seafood Markets, Seafood, Diners",Scarborough,"697 US Rt 1, Scarborough, ME 04074",343,43.564668,-70.395688
+The Maine Bagel,4.5,$,"Breakfast & Brunch, Bagels, Sandwiches",Scarborough,"172 US Rte 1, Scarborough, ME 04074",58,43.595656,-70.325706
+Wilson County Barbecue,4.5,$$,Barbeque,Portland,"82 Hanover St, Ste 8, Portland, ME 04101",133,43.6598352,-70.2647829
+Chaba Thai,4.5,$$,"Thai, Asian Fusion",Scarborough,"700 US Rt 1, Scarborough, ME 04074",95,43.5639991760254,-70.3947830200195
+Blyth & Burrows,4.5,$$,"Cocktail Bars, Tapas Bars",Portland,"26 Exchange St, Portland, ME 04101",282,43.65702,-70.25409
+Solo Italiano,4.5,$$$,"Italian, Bars",Portland,"100 Commercial St, Portland, ME 04101",326,43.656681484491,-70.2509667717237
+Chaval,4.5,$$$,"Spanish, French, Cocktail Bars",Portland,"58 Pine St, Portland, ME 04102",210,43.650951488628,-70.2686837718971
+Empire Chinese Kitchen,4.5,$$,"Dim Sum, Cantonese",Portland,"575 Congress St, Portland, ME 04101",587,43.654899597168,-70.2625198364258
+David's 388 - South Portland,4.5,$$,"American (New), Bars, Desserts",South Portland,"388 Cottage Rd, South Portland, ME 04106",132,43.635751,-70.235207
+Sebago Brewing Company,3.5,$$,"American (New), Brewpubs, Burgers",Scarborough,"201 Southborough Dr, Scarborough, ME 04074",299,43.627985,-70.344158
+Romeos Pizza & Sports Pub,4.0,$$,Pizza,Scarborough,"201 US Rte 1, Scarborough, ME 04074",67,43.593428,-70.329784
+DiMillo's On the Water,4.0,$$$,"Seafood, Italian, American (New)",Portland,"25 Long Wharf, Portland, ME 04101",1010,43.6542111338841,-70.2506053447723
+Fore Street,4.0,$$$,"American (New), Seafood",Portland,"288 Fore St, Portland, ME 04101",1208,43.65818383774291,-70.25098375201219
+Tomaso's Canteen,4.5,$$,"Bars, American (Traditional)",Portland,"18 Hampshire St, Portland, ME 04101",220,43.6598770189872,-70.2514609694481
+Pine Tree Seafood & Produce,5.0,$$,"Seafood Markets, Sandwiches",Scarborough,"655 US Route 1, Scarborough, ME 04074",203,43.56787,-70.391268
+El Rayo Taqueria,3.5,$$,Mexican,Scarborough,"245 US Route 1, Scarborough, ME 04074",225,43.5905859535598,-70.3366632199463
+The Armory Lounge,4.5,$$,"Lounges, American (New)",Portland,"20 Milk St, Portland, ME 04101",69,43.657054901123,-70.2527618408203
+Izakaya Minato,4.5,$$$,Izakaya,Portland,"54 Washington Ave, Portland, ME 04101",159,43.665095,-70.252187
+The Holy Donut,4.0,$$,"Donuts, Coffee & Tea",Scarborough,"398 Rt 1, Scarborough, ME 04074",353,43.583999,-70.359485
+Union Restaurant,4.0,$$,"Cocktail Bars, American (New), Breakfast & Brunch",Portland,"390 Congress St, Portland, ME 04101",327,43.65904709448098,-70.25650467116392
+Coals,4.5,$$,Pizza,Portland,"118 Preble St, Portland, ME 04101",70,43.6600519,-70.2633933237425
+The North Point,4.5,$$,"Lounges, American (Traditional)",Portland,"35 Silver St, Portland, ME 04101",281,43.6574068778384,-70.2527466382673
+Flatbread Company,4.5,$$,"Pizza, Salad, Beer Bar",Portland,"72 Commercial St, Portland, ME 04101",758,43.6573550703061,-70.2500543525629
+Bird & Co,4.5,$$,Tacos,Portland,"539 Deering Ave, Portland, ME 04103",161,43.67037,-70.28425
+Miyake,4.5,$$$,"Japanese, Sushi Bars",Portland,"468 Fore St, Portland, ME 04101",411,43.655549140136884,-70.25512372031483
+Via Vecchia,4.0,$$,"Italian, Tapas/Small Plates, Cocktail Bars",Portland,"10 Dana St, Portland, ME 04101",219,43.655857,-70.253711
+Bao Bao Dumpling House,4.0,$$,"Chinese, Bars",Portland,"133 Spring St, Portland, ME 04101",349,43.65263,-70.26295
+Pai Northern Thai Kitchen,4.5,$$,Thai,Toronto,"18 Duncan Street, Toronto, ON M5H 3G8, Canada",3398,43.64784,-79.38872
+Richmond Station,4.5,$$$,Canadian (New),Toronto,"1 Richmond Street W, Toronto, ON M5H 3W4, Canada",887,43.6513729,-79.379285
+Osteria Giulia,4.5,$$$$,Italian,Toronto,"134 Avenue Road, Toronto, ON M5R 2H6, Canada",30,43.67431,-79.39668
+Ristorante Sotto Sotto,4.0,$$$,Italian,Toronto,"120 Avenue Road, Toronto, ON M5R 2H4, Canada",127,43.67374,-79.39646
+Joso's,4.5,$$$,Seafood,Toronto,"202 Davenport Road, Toronto, ON M5R 1J2, Canada",171,43.6751099,-79.39607
+Byblos,4.5,$$$$,"Mediterranean, Middle Eastern",Toronto,"11 Duncan Street, Toronto, ON M5V 3M2, Canada",898,43.647546,-79.388123
+KINKA IZAKAYA ORIGINAL,4.0,$$,"Japanese, Pubs",Toronto,"398 Church Street, Toronto, ON M5B 2A2, Canada",1804,43.66042406856627,-79.37890046282942
+Gusto 101,4.0,$$,Italian,Toronto,"101 Portland Street, Toronto, ON M5V 2N3, Canada",1123,43.645002131066,-79.400309337027
+Yasu,4.5,$$$$,"Japanese, Sushi Bars",Toronto,"81 Harbord Street, Toronto, ON M5S 1G4, Canada",424,43.66269,-79.40314
+Her Father's Cider Bar & Kitchen,4.5,$$,"Gastropubs, Bars, Canadian (New)",Toronto,"119 Harbord Street, Toronto, ON M5S 1G7, Canada",188,43.66232,-79.40453
+Scaramouche Restaurant Pasta Bar & Grill,4.5,$$$$,"French, Bars",Toronto,"1 Benvenuto Place, Toronto, ON M4V 2L1, Canada",332,43.68155,-79.39991
+Lee,4.0,$$$,Asian Fusion,Toronto,"497 Richmond St W, Toronto, ON M5V 1Y3, Canada",710,43.64723,-79.39931
+Rasa,4.5,$$,"Canadian (New), Tapas/Small Plates",Toronto,"196 Robert Street, Toronto, ON M5S 2K8, Canada",321,43.6627752,-79.4039682
+Khao San Road,4.0,$$,Thai,Toronto,"11 Charlotte Street, Toronto, ON M5V 2H5, Canada",1700,43.646412027881496,-79.39361985450327
+Canoe,4.0,$$$$,Canadian (New),Toronto,"66 Wellington Street  W, 54th Floor, TD Bank Tower, Toronto, ON M5K 1H6, Canada",745,43.646954,-79.382159
+KINKA IZAKAYA ANNEX,4.0,$$,"Japanese, Tapas/Small Plates, Pubs",Toronto,"559 Bloor St W, Toronto, ON M5S 1Y6, Canada",503,43.665157,-79.410658
+Dzo Viet Eatery,4.0,$$,Vietnamese,Toronto,"308 Dundas Street W, Toronto, ON M5T 1G4, Canada",141,43.65445,-79.39178
+Jacobs & Co. Steakhouse,4.5,$$$$,Steakhouses,Toronto,"12 Brant Street, Toronto, ON M5V 1K4, Canada",610,43.64539876116,-79.3980279011192
+Blu Ristorante,4.0,$$$,Italian,Toronto,"90 Avenue Road, Toronto, ON M5R 2H2, Canada",173,43.67237,-79.39586
+Alo Restaurant,4.5,$$$$,"Bars, French",Toronto,"163 Spadina Avenue, 3rd Floor, Toronto, ON M5V 2A5, Canada",335,43.64851,-79.39584
+Insomnia Restaurant & Lounge,4.0,$$,"Lounges, Breakfast & Brunch, Comfort Food",Toronto,"563 Bloor Street W, Toronto, ON M5S 1Y6, Canada",1015,43.665961,-79.411003
+Ramen Isshin,4.5,$$,Ramen,Toronto,"421 College Street, Toronto, ON M5T 1T1, Canada",804,43.65634,-79.40689
+PLANTA Yorkville,4.0,$$,"Vegetarian, Sushi Bars, Asian Fusion",Toronto,"1221 Bay Street, Toronto, ON M5R 3P5, Canada",500,43.67028,-79.38945
+Bar Raval,4.0,$$$,"Spanish, Tapas/Small Plates, Cocktail Bars",Toronto,"505 College Street, Toronto, ON M6G 2J3, Canada",319,43.6558432,-79.4099433
+Beerbistro,4.0,$$,"Bistros, Beer Bar, Comfort Food",Toronto,"18 King Street E, Toronto, ON M5C 1C4, Canada",678,43.649467134996364,-79.3771696548727
+Aloette,4.5,$$$,"French, Bistros, Diners",Toronto,"163 Spadina Avenue, 1st Floor, Toronto, ON M5V 2L6, Canada",287,43.64855831176563,-79.395963
+Antler Kitchen & Bar,4.5,$$$,Canadian (New),Toronto,"1454 Dundas Street West, Toronto, ON M6J 1Y6, Canada",289,43.64985,-79.43059
+The Oxley,4.0,$$,"Pubs, Gastropubs",Toronto,"121 Yorkville Avenue, Toronto, ON M5R 1C4, Canada",173,43.67059,-79.39304
+George Restaurant,4.5,$$$$,"Canadian (New), Cocktail Bars",Toronto,"111 Queen Street E, Toronto, ON M5C 1S2, Canada",295,43.65337263523713,-79.37432933100068
+Chubby's Jamaican Kitchen,4.0,$$,Caribbean,Toronto,"104 Portland Street, Toronto, ON M5V 2N2, Canada",324,43.64532,-79.40066
+Miku,4.0,$$$$,"Japanese, Sushi Bars",Toronto,"105-10 Bay Street, Toronto, ON M5J 2R8, Canada",892,43.6412346,-79.3773697
+Grey Gardens,4.5,$$$,"Wine Bars, Canadian (New)",Toronto,"199 Augusta Avenue, Toronto, ON M5T 2L4, Canada",127,43.6537999,-79.40143
+La Banane,4.5,$$$$,"French, Seafood, Bistros",Toronto,"227 Ossington Avenue, Toronto, ON M6J 2Z8, Canada",154,43.64904,-79.4203
+Kintaro Izakaya,4.0,$$,"Japanese, Sushi Bars, Tapas/Small Plates",Toronto,"459 Church Street, Main Floor, Toronto, ON M4Y 4C5, Canada",240,43.66417,-79.38006
+Zakkushi On Carlton,4.0,$$$,"Japanese, Tapas/Small Plates, Barbeque",Toronto,"193 Carlton Street, Toronto, ON M5A 2K9, Canada",328,43.66343,-79.37062
+Descendant Detroit Style Pizza,4.5,$$,Pizza,Toronto,"1168 Queen Street E, Toronto, ON M4M 1L5, Canada",443,43.662889,-79.332404
+King Taps,4.0,$$,"Canadian (New), Cocktail Bars",Toronto,"100 King Street W, Toronto, ON M5X 1A9, Canada",392,43.6486379269,-79.3817439
+Playa Cabana,4.0,$$,"Mexican, Bars",Toronto,"111 Dupont Street, Toronto, ON M5R 1V4, Canada",471,43.6759577692695,-79.4011840224266
+The Keg Steakhouse + Bar - York Street,4.0,$$$,"Steakhouses, Bars, Seafood",Toronto,"165 York Street, Toronto, ON M5H 3R8, Canada",303,43.650011481693866,-79.38395891300931
+Buca,4.0,$$$,Italian,Toronto,"604 King Street W, Toronto, ON M5V 1M6, Canada",454,43.64462,-79.40045
+The Carbon Bar,4.0,$$$,"Barbeque, Bars, American (Traditional)",Toronto,"99 Queen Street East, Toronto, ON M5C 1S2, Canada",412,43.6531872633836,-79.3747868765724
+KINTON RAMEN,4.0,$$,"Ramen, Noodles",Toronto,"396 Church Street, Toronto, ON M5B 2A2, Canada",225,43.6603113,-79.3789004
+Cactus Club Cafe,4.0,$$,"Cocktail Bars, Canadian (New)",Toronto,"77 Adelaide Street W, Toronto, ON M5H 1P9, Canada",591,43.64950420768667,-79.38251803088575
+The Keg Steakhouse + Bar,4.0,$$$,"Steakhouses, Bars, Seafood",Toronto,"515 Jarvis Street, Toronto, ON M4Y 2H7, Canada",374,43.6668345,-79.3779253
+DaiLo,4.0,$$$,"Chinese, Asian Fusion",Toronto,"503 College Street, Toronto, ON M6G 1A5, Canada",320,43.65574,-79.4098
+Café Polonez,4.5,$$,Polish,Toronto,"195 Roncesvalles Avenue, Toronto, ON M6R 2L5, Canada",285,43.64514,-79.44831
+Korean Village Restaurant,4.0,$$,Korean,Toronto,"628 Bloor Street W, Toronto, ON M6G 1K7, Canada",413,43.66461,-79.41444
+Le Baratin,4.5,$$,French,Toronto,"1600 Dundas Street. W, Toronto, ON M6K 1T8, Canada",129,43.65007,-79.4351
+Bar Isabel,4.0,$$$,"Spanish, Tapas Bars",Toronto,"797 College Street, Toronto, ON M6G 1C7, Canada",467,43.654631,-79.4207738
+Storm Crow Manor,4.0,$$,"Bars, American (Traditional)",Toronto,"580 Church Street, Toronto, ON M4Y 2E5, Canada",141,43.6667489584503,-79.3816431239247
+Pai Northern Thai Kitchen,4.5,$$,Thai,Toronto,"18 Duncan Street, Toronto, ON M5H 3G8, Canada",3398,43.64784,-79.38872
+Richmond Station,4.5,$$$,Canadian (New),Toronto,"1 Richmond Street W, Toronto, ON M5H 3W4, Canada",887,43.6513729,-79.379285
+Osteria Giulia,4.5,$$$$,Italian,Toronto,"134 Avenue Road, Toronto, ON M5R 2H6, Canada",30,43.67431,-79.39668
+Ristorante Sotto Sotto,4.0,$$$,Italian,Toronto,"120 Avenue Road, Toronto, ON M5R 2H4, Canada",127,43.67374,-79.39646
+Joso's,4.5,$$$,Seafood,Toronto,"202 Davenport Road, Toronto, ON M5R 1J2, Canada",171,43.6751099,-79.39607
+Byblos,4.5,$$$$,"Mediterranean, Middle Eastern",Toronto,"11 Duncan Street, Toronto, ON M5V 3M2, Canada",898,43.647546,-79.388123
+KINKA IZAKAYA ORIGINAL,4.0,$$,"Japanese, Pubs",Toronto,"398 Church Street, Toronto, ON M5B 2A2, Canada",1804,43.66042406856627,-79.37890046282942
+Gusto 101,4.0,$$,Italian,Toronto,"101 Portland Street, Toronto, ON M5V 2N3, Canada",1123,43.645002131066,-79.400309337027
+Yasu,4.5,$$$$,"Japanese, Sushi Bars",Toronto,"81 Harbord Street, Toronto, ON M5S 1G4, Canada",424,43.66269,-79.40314
+Her Father's Cider Bar & Kitchen,4.5,$$,"Gastropubs, Bars, Canadian (New)",Toronto,"119 Harbord Street, Toronto, ON M5S 1G7, Canada",188,43.66232,-79.40453
+Scaramouche Restaurant Pasta Bar & Grill,4.5,$$$$,"French, Bars",Toronto,"1 Benvenuto Place, Toronto, ON M4V 2L1, Canada",332,43.68155,-79.39991
+Lee,4.0,$$$,Asian Fusion,Toronto,"497 Richmond St W, Toronto, ON M5V 1Y3, Canada",710,43.64723,-79.39931
+Rasa,4.5,$$,"Canadian (New), Tapas/Small Plates",Toronto,"196 Robert Street, Toronto, ON M5S 2K8, Canada",321,43.6627752,-79.4039682
+Khao San Road,4.0,$$,Thai,Toronto,"11 Charlotte Street, Toronto, ON M5V 2H5, Canada",1700,43.646412027881496,-79.39361985450327
+Canoe,4.0,$$$$,Canadian (New),Toronto,"66 Wellington Street  W, 54th Floor, TD Bank Tower, Toronto, ON M5K 1H6, Canada",745,43.646954,-79.382159
+KINKA IZAKAYA ANNEX,4.0,$$,"Japanese, Tapas/Small Plates, Pubs",Toronto,"559 Bloor St W, Toronto, ON M5S 1Y6, Canada",503,43.665157,-79.410658
+Dzo Viet Eatery,4.0,$$,Vietnamese,Toronto,"308 Dundas Street W, Toronto, ON M5T 1G4, Canada",141,43.65445,-79.39178
+Jacobs & Co. Steakhouse,4.5,$$$$,Steakhouses,Toronto,"12 Brant Street, Toronto, ON M5V 1K4, Canada",610,43.64539876116,-79.3980279011192
+Blu Ristorante,4.0,$$$,Italian,Toronto,"90 Avenue Road, Toronto, ON M5R 2H2, Canada",173,43.67237,-79.39586
+Alo Restaurant,4.5,$$$$,"Bars, French",Toronto,"163 Spadina Avenue, 3rd Floor, Toronto, ON M5V 2A5, Canada",335,43.64851,-79.39584
+Insomnia Restaurant & Lounge,4.0,$$,"Lounges, Breakfast & Brunch, Comfort Food",Toronto,"563 Bloor Street W, Toronto, ON M5S 1Y6, Canada",1015,43.665961,-79.411003
+Ramen Isshin,4.5,$$,Ramen,Toronto,"421 College Street, Toronto, ON M5T 1T1, Canada",804,43.65634,-79.40689
+PLANTA Yorkville,4.0,$$,"Vegetarian, Sushi Bars, Asian Fusion",Toronto,"1221 Bay Street, Toronto, ON M5R 3P5, Canada",500,43.67028,-79.38945
+Bar Raval,4.0,$$$,"Spanish, Tapas/Small Plates, Cocktail Bars",Toronto,"505 College Street, Toronto, ON M6G 2J3, Canada",319,43.6558432,-79.4099433
+Beerbistro,4.0,$$,"Bistros, Beer Bar, Comfort Food",Toronto,"18 King Street E, Toronto, ON M5C 1C4, Canada",678,43.649467134996364,-79.3771696548727
+Aloette,4.5,$$$,"French, Bistros, Diners",Toronto,"163 Spadina Avenue, 1st Floor, Toronto, ON M5V 2L6, Canada",287,43.64855831176563,-79.395963
+Antler Kitchen & Bar,4.5,$$$,Canadian (New),Toronto,"1454 Dundas Street West, Toronto, ON M6J 1Y6, Canada",289,43.64985,-79.43059
+The Oxley,4.0,$$,"Pubs, Gastropubs",Toronto,"121 Yorkville Avenue, Toronto, ON M5R 1C4, Canada",173,43.67059,-79.39304
+George Restaurant,4.5,$$$$,"Canadian (New), Cocktail Bars",Toronto,"111 Queen Street E, Toronto, ON M5C 1S2, Canada",295,43.65337263523713,-79.37432933100068
+Chubby's Jamaican Kitchen,4.0,$$,Caribbean,Toronto,"104 Portland Street, Toronto, ON M5V 2N2, Canada",324,43.64532,-79.40066
+Miku,4.0,$$$$,"Japanese, Sushi Bars",Toronto,"105-10 Bay Street, Toronto, ON M5J 2R8, Canada",892,43.6412346,-79.3773697
+Grey Gardens,4.5,$$$,"Wine Bars, Canadian (New)",Toronto,"199 Augusta Avenue, Toronto, ON M5T 2L4, Canada",127,43.6537999,-79.40143
+La Banane,4.5,$$$$,"French, Seafood, Bistros",Toronto,"227 Ossington Avenue, Toronto, ON M6J 2Z8, Canada",154,43.64904,-79.4203
+Kintaro Izakaya,4.0,$$,"Japanese, Sushi Bars, Tapas/Small Plates",Toronto,"459 Church Street, Main Floor, Toronto, ON M4Y 4C5, Canada",240,43.66417,-79.38006
+Zakkushi On Carlton,4.0,$$$,"Japanese, Tapas/Small Plates, Barbeque",Toronto,"193 Carlton Street, Toronto, ON M5A 2K9, Canada",328,43.66343,-79.37062
+Descendant Detroit Style Pizza,4.5,$$,Pizza,Toronto,"1168 Queen Street E, Toronto, ON M4M 1L5, Canada",443,43.662889,-79.332404
+King Taps,4.0,$$,"Canadian (New), Cocktail Bars",Toronto,"100 King Street W, Toronto, ON M5X 1A9, Canada",392,43.6486379269,-79.3817439
+Playa Cabana,4.0,$$,"Mexican, Bars",Toronto,"111 Dupont Street, Toronto, ON M5R 1V4, Canada",471,43.6759577692695,-79.4011840224266
+The Keg Steakhouse + Bar - York Street,4.0,$$$,"Steakhouses, Bars, Seafood",Toronto,"165 York Street, Toronto, ON M5H 3R8, Canada",303,43.650011481693866,-79.38395891300931
+Buca,4.0,$$$,Italian,Toronto,"604 King Street W, Toronto, ON M5V 1M6, Canada",454,43.64462,-79.40045
+The Carbon Bar,4.0,$$$,"Barbeque, Bars, American (Traditional)",Toronto,"99 Queen Street East, Toronto, ON M5C 1S2, Canada",412,43.6531872633836,-79.3747868765724
+KINTON RAMEN,4.0,$$,"Ramen, Noodles",Toronto,"396 Church Street, Toronto, ON M5B 2A2, Canada",225,43.6603113,-79.3789004
+Cactus Club Cafe,4.0,$$,"Cocktail Bars, Canadian (New)",Toronto,"77 Adelaide Street W, Toronto, ON M5H 1P9, Canada",591,43.64950420768667,-79.38251803088575
+The Keg Steakhouse + Bar,4.0,$$$,"Steakhouses, Bars, Seafood",Toronto,"515 Jarvis Street, Toronto, ON M4Y 2H7, Canada",374,43.6668345,-79.3779253
+DaiLo,4.0,$$$,"Chinese, Asian Fusion",Toronto,"503 College Street, Toronto, ON M6G 1A5, Canada",320,43.65574,-79.4098
+Café Polonez,4.5,$$,Polish,Toronto,"195 Roncesvalles Avenue, Toronto, ON M6R 2L5, Canada",285,43.64514,-79.44831
+Korean Village Restaurant,4.0,$$,Korean,Toronto,"628 Bloor Street W, Toronto, ON M6G 1K7, Canada",413,43.66461,-79.41444
+Le Baratin,4.5,$$,French,Toronto,"1600 Dundas Street. W, Toronto, ON M6K 1T8, Canada",129,43.65007,-79.4351
+Bar Isabel,4.0,$$$,"Spanish, Tapas Bars",Toronto,"797 College Street, Toronto, ON M6G 1C7, Canada",467,43.654631,-79.4207738
+Storm Crow Manor,4.0,$$,"Bars, American (Traditional)",Toronto,"580 Church Street, Toronto, ON M4Y 2E5, Canada",141,43.6667489584503,-79.3816431239247
