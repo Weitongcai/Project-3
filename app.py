@@ -16,7 +16,7 @@ def map():
 def sample(): 
     # df = pd.read_json('sample.json')
     # dict_data = df.to_dict()
-    f = open('sample.json')
+    f = open('Data Merge/sample.json')
     dict_data = json.load(f)
     return jsonify(dict_data)
 
