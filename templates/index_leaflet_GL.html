@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Yelp Restaurant Map Layout</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.css" />
+  <style>
+        /* CSS styles for the header and sidebar */
+        .jumbotron {
+      background-color: yellow;
+      color: #160739;
+      padding: 70px;
+      text-align: center;
+    }
+
+    #map {
+      height: 850px;
+    }
+  </style>
+</head>
+<body>
+
+
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h1>YELP DATA VISUALIZATION</h1>
+        <p>Use the interactive charts below to explore the dataset</p>
+        <p>Click <a href="/">here</a> to see the graphs!</p>
+      </div>
+    </div>
+    <div class="row">
+      <div id="map"></div>
+    </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.js"></script>
+  <script>
+    // Creating the map object
+    let myMap = L.map("map", {
+      center: [43.6532, -79.3832], // Toronto GTA coordinates: [latitude, longitude]
+      zoom: 10 // Adjust the zoom level as needed
+    });
+
+    // Adding the tile layer
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(myMap);
+
+    // Load the restaurant data from sample.json
+    fetch('/sample')
+    .then(response => response.json())
+      .then(data => {
+        // Process the retrieved restaurant data
+        // Iterate over the data and create markers for each restaurant
+        data.forEach(restaurant => {
+          const marker = L.marker([restaurant.latitude, restaurant.longitude])
+            .bindPopup("<strong>" + restaurant.name + "</strong><br />" + restaurant.address);
+
+          marker.addTo(myMap);
+        });
+      })
+      .catch(error => {
+        console.error('Error loading restaurant data:', error);
+      });
+  </script>
+</body>
+</html>
